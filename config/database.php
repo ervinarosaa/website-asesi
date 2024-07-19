@@ -1,8 +1,8 @@
 <?php
 // deklarasi parameter koneksi database
-$host = "localhost";
-$username = "root";
-$password = "";
+$host = "xxxx";
+$username = "xxxx";
+$password = "xxxx";
 $database = "db_sertifikasi";
 
 // buat koneksi
